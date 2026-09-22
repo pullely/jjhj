@@ -76,4 +76,4 @@ spec:
     surface: billing
     runtime: cloudflare
 # ci: re-trigger deploy (batch A — runner-starvation recovery 20260622T115650Z)
-# orun: redeploy 04-workers as_3d1a21c9340f42ba8183
+# orun: redeploy 04-workers-restore as_3d1a21c9340f42ba8183
