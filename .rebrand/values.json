@@ -1,0 +1,11 @@
+{
+  "reponame": "jjhj",
+  "productname": "jjhj",
+  "productdomain": "jjhj.dev",
+  "apibaseurl": "https://api.jjhj.dev",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_604c3811c6054e2d98518fce3e1fa2f1",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
